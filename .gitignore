@@ -104,3 +104,11 @@ dist
 .tern-port
 
 .idea
+
+# Python env 
+src/env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
