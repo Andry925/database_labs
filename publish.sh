@@ -13,8 +13,6 @@ cd docs/.vuepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
-git config user.email "rega600b@gmail.com"
-git config user.name "Andry925"
 git add -A
 git commit -m 'deploy'
 
